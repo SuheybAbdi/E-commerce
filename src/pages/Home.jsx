@@ -28,17 +28,17 @@ const Home = () => {
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="p-6 border rounded-lg shadow-md bg-white hover:shadow-lg transition duration-300">
-              <img src="public/Clothes.webp" alt="Product 1" className="w-full h-48 object-cover rounded-t-lg" />
+              <img src="/Clothes.webp" alt="Product 1" className="w-full h-48 object-cover rounded-t-lg" />
               <h3 className="text-2xl mt-4 font-semibold">Product 1</h3>
               <p className="mt-2">High-quality and affordable product.</p>
             </div>
             <div className="p-6 border rounded-lg shadow-md bg-white hover:shadow-lg transition duration-300">
-              <img src="public/Electronic.jpg" alt="Product 2" className="w-full h-48 object-cover rounded-t-lg" />
+              <img src="/Electronic.jpg" alt="Product 2" className="w-full h-48 object-cover rounded-t-lg" />
               <h3 className="text-2xl mt-4 font-semibold">Product 2</h3>
               <p className="mt-2">Reliable and durable product.</p>
             </div>
             <div className="p-6 border rounded-lg shadow-md bg-white hover:shadow-lg transition duration-300">
-              <img src="public/Shoes.jpg" alt="Product 3" className="w-full h-48 object-cover rounded-t-lg" />
+              <img src="/Shoes.jpg" alt="Product 3" className="w-full h-48 object-cover rounded-t-lg" />
               <h3 className="text-2xl mt-4 font-semibold">Product 3</h3>
               <p className="mt-2">Best-selling product with excellent reviews.</p>
             </div>
