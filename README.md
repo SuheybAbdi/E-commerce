@@ -1,6 +1,7 @@
 # Suhieb Store E-Commerce Application
-Welcome to the Suheib Store E-Commerce Application! This project is a fully functional e-commerce platform built using React, Bootstrap, Tailwind CSS, and various other modern web development technologies.
 
+## Links
+- vercel : https://e-commerce-brown-iota.vercel.app/.
 # Table of Contents
 * Introduction
 * Features
@@ -10,7 +11,7 @@ Welcome to the Suheib Store E-Commerce Application! This project is a fully func
 * Available Scripts
 * Contributing
 * License
-# Introduction
+# Discription
 The Suhieb Store E-Commerce Application is designed to provide users with a seamless online shopping experience. Users can browse products, add them to the cart, and proceed to checkout with a secure payment system. The application includes features such as user authentication, product management, and responsive design to ensure an optimal experience across all devices.
 
 # Features
