@@ -20,7 +20,7 @@ const About = () => {
           </p>
         </div>
         <div className="md:w-1/2 p-8">
-          <img src="About.png" alt="E-Commerce Store" className="rounded-lg shadow-lg"/>
+          <img src="/About.png" alt="E-Commerce Store" className="rounded-lg shadow-lg"/>
         </div>
       </div>
     </section>
